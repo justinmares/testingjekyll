@@ -1,0 +1,35 @@
+#### Email Subjects
+
+Cold calling using email is a different game from the phone for several reasons, but the biggest
+one to keep in mind is the subject. Your prospects may only ever see the From and Subject fields
+of your emails. The subject needs to convince them to open the email. Writing a great subject is
+not unlike writing a great headline. You need to summarize, be honest, and create interest.
+No wasted elements or redundant words belong in a subject.
+
+#### Good Examples
+
+* Start a blog: Interview < Business Name > for < Blog Name > 
+* Write a report: 7 Ways to Improve X in < business > 
+* Be honest and specific: Chat about handling < problem > in < business > 
+* Name drop: Jackie Brown said to ask you about < topic >
+
+  
+
+These subjects are specific, honest, and interesting to the right targets. Some even offer value
+to prospects up front. Try it!
+
+Mailchimp has some [excellent data](http://mailchimp.com/resources/research/email-marketing-subject-line-comparison/) and [best practices](http://kb.mailchimp.com/article/best-practices-in-writing-email-subject-lines) for email subjects.
+
+#### Bad Examples
+
+* Lazy: talk about problems in your business 
+* Bad blind sales: Dentistry Practice Software 
+* Feels false: Double your business today!
+  
+#### Final Thoughts
+
+Subjects are something that you should test and tweak as you go. Many people may never see more
+than the From and Subject of your emails, but you can use the volume to find subjects that work
+for your market.
+
+<hr/>

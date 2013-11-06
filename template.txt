@@ -1,0 +1,17 @@
+---
+layout: default
+title: @industry Cold Calling Scripts
+categories: [ @tags ]
+---
+
+{% include call.html %}
+
+{% include boilerplate-top.html %}
+
+{% randomize %}
+
+@unique_graph
+
+{% include boilerplate-try.html %}
+
+{% include share.html %}

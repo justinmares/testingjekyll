@@ -1,0 +1,13 @@
+<div class="alignright">
+<h4>Script Categories</h4>
+
+<ul>
+{% for category in site.categories %}
+	<li><a href="/scripts/categories/{{ category[0] }}/index.html">{{ category[0] }}</a></li>
+{% endfor %}
+</ul>
+
+{{ site.categories[0] }}
+
+</div>
+
